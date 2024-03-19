@@ -1,0 +1,17 @@
+# Build directory
+build/
+
+# Main binary
+amazed
+
+# Testing binary
+glados
+
+# Compile commands for clangd
+compile_commands.json
+
+# Cache folder for clangd
+.cache
+
+# Mistakes
+vgcore.*
